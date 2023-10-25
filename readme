@@ -1,0 +1,18 @@
+Hello! 
+Anyone looking for a great starter lab, I've got just what you need. Here I will outline the basics but for more specifc instructions you can watch this video: 
+  https://www.youtube.com/watch?v=RoZeVbbZ0o0&t=2799s
+
+Today we will be making a honey pot with a live attack world map in Microsoft Azure. 
+  > make a subscription
+  > make a resource group
+  > create a vm 
+  > create a log analytics workspace
+  > connect vm to LAW
+  > download map api: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa04tUmtfd3lTellFbDY0QXE5eUJfQmhfdVVwQXxBQ3Jtc0tucWNPR1BuYlhyTVZYWWUtRnAtUFp3WnR1MXc1cHRPUThZS05IODg4MEFjb0VRLWhYTFBXT0VqZlRQQmFHbDdfZVJ0S2FKRWQwdXR6MlFjZmtQZ2E3alVIRkprSENZYTFTY1NrSjU4SDAyUHF6TjVTbw&q=https%3A%2F%2Fgithub.com%2Fjoshmadakor1%2FSentinel-Lab%2Fblob%2Fmain%2FCustom_Security_Log_Exporter.ps1&v=RoZeVbbZ0o0
+  > update api session key specifc to you
+  > use log data to train LAW how to disern data
+  > set up workbook in Sentinel
+  > create Map widget and connect to log data
+  > vioala!
+
+I will be listing some code and other helpful instructions, but that's pretty much the gist of it. Have fun!
