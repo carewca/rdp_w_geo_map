@@ -8,7 +8,7 @@ Today we will be making a honey pot with a live attack world map in Microsoft Az
   > create a vm 
   > create a log analytics workspace
   > connect vm to LAW
-  > download map api: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa04tUmtfd3lTellFbDY0QXE5eUJfQmhfdVVwQXxBQ3Jtc0tucWNPR1BuYlhyTVZYWWUtRnAtUFp3WnR1MXc1cHRPUThZS05IODg4MEFjb0VRLWhYTFBXT0VqZlRQQmFHbDdfZVJ0S2FKRWQwdXR6MlFjZmtQZ2E3alVIRkprSENZYTFTY1NrSjU4SDAyUHF6TjVTbw&q=https%3A%2F%2Fgithub.com%2Fjoshmadakor1%2FSentinel-Lab%2Fblob%2Fmain%2FCustom_Security_Log_Exporter.ps1&v=RoZeVbbZ0o0
+  > download map api: https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1
   > update api session key specifc to you
   > use log data to train LAW how to disern data
   > set up workbook in Sentinel
