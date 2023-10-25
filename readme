@@ -16,3 +16,10 @@ Today we will be making a honey pot with a live attack world map in Microsoft Az
   > vioala!
 
 I will be listing some code and other helpful instructions, but that's pretty much the gist of it. Have fun!
+
+It's worth listing somethings have changed since this video was made:
+1. Security has changed to Windows Defender for Cloud
+2. A lot of the aspects in the LAW has been deprecated and grouped together. Look for those.
+3. Data collection needs to be enabled for the VM and the resource group.
+    see here: https://learn.microsoft.com/en-us/azure/defender-for-cloud/monitoring-components#enable-auto-provisioning-of-the-log-analytics-agent-and-extensions-
+4. use the code provided to skip the part of the video about discerning the data from the log.
